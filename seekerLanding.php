@@ -15,7 +15,7 @@
     <ul class="menu">
         <li><a href="">Home</a></li>
         <li><a href="">FindJob</a></li>
-        <li><a href="./HTML/testimony.html" target="_blank">Testimony</a></li>
+       
     </ul>
 
     <a href="logout.php">
