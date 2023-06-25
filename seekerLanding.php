@@ -254,5 +254,58 @@
     </div>
  </div>
 </main>
+
 </body>
 
+<footer class="footer">
+    <div class="sections-container">
+        <div class="cols">
+            <img src="./Accesories/assets/felagi-dark.PNG" alt=""  id="footer-logo" >
+            <div class="icon-link">
+                <img src="./Accesories/assets/location-icon.png" alt="">
+                <a href="">Adiss Ababa</a>
+            </div>
+            <div class="icon-link">
+                <img src="./Accesories/assets/comment-icon.png" alt="">
+                <a href="">English</a>
+            </div>
+        </div>
+        <div class="cols">
+            <h3>Partners</h3>
+            <ul>
+                <li><a href="">Google</a></li>
+                <li><a href="">Amazon</a></li>
+                <li><a href="">Microsoft</a></li>
+                <li><a href="">ALX</a></li>
+                <li><a href="">AI Center Ethiopia</a></li>
+                <li><a href="">INSA</a></li>
+            </ul>
+        </div>
+        <div class="cols">
+            <h3>Use Cases</h3>
+            <ul>
+                <li><a href="">eCommerce</a></li>
+                <li><a href="">Saas</a></li>
+                <li><a href="">Marketplace</a></li>
+                <li><a href="">Embeded Finance</a></li>
+                <li><a href="">Crypto</a></li>
+                <li><a href="">Creator Economy</a></li>
+            </ul>
+
+        </div>
+        <div class="cols">
+            <h3>Resources</h3>
+            <ul>
+                <li><a href="">Support Center</a></li>
+                <li><a href="">ALX Ethiopia</a></li>
+                <li><a href="">Github</a></li>
+                <li><a href="">Licenses</a></li>
+                <li><a href="">Privacy & Terms</a></li>
+                <li><a href="">Cookie Settings</a></li>
+            </ul>
+
+
+        </div>
+    </div>
+</footer>
+<script src="./js/gradient.js"></script>
